@@ -1,1 +1,1 @@
-Arch Linux configs, incase Arch update breaks the OS.
+#Arch Linux configs, incase Arch update breaks the OS.
